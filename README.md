@@ -7,7 +7,7 @@
 
 </div>
 
-Remote full-stack developer ready to code 😎.
+Remote full-stack developer ready to code 😎, open to new opportunities ✏️.
 <br><br>
 
 
