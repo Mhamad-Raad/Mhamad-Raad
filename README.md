@@ -1,10 +1,22 @@
 
 ### Hi there, I am Mhamad <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="100px" widht="40px">
 Remote full-stack developer ready to code 😎.
+<br><br>
 
 
 
+**About Me!**
+
+- 🌱 I’m currently exploring WEb development with a big interest in Web animation. 
+- 💼 Bachelor's degree in Software engineering.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
+- Learn more about me on linked <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
+<br><br>
+<br><br>
+
+<img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="360px" widht="500px">
+<br><br>
 
 ### Tech & Tools Preference
 
@@ -42,15 +54,22 @@ Remote full-stack developer ready to code 😎.
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 
 
-### A little about me
+### Coding & active status
+
+
 <p align="center">
-<a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&theme=midnight-purple&hide=glsl,python" />
-</a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhamad-Raad&show_icons=true&hide_border=true&theme=midnight-purple)
-</p>
+          <a href="https://github.com/SaraZuhair/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"               alt="Mhamad-Raad :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/SaraZuhair">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mhamad-Raad&show_icons=true&theme=midnight-purple&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhamad-Raad&theme=midnight-purple&hide_border=true" />
+          </a>
+       </p>
 
 
+   
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
