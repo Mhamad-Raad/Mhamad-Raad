@@ -1,5 +1,12 @@
 
-### Hi there, I am Mhamad <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
+# Hi there, I am Mhamad <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=499&lines=Hello+Developers+)](https://git.io/typing-svg)
+
+</div>
+
 Remote full-stack developer ready to code 😎.
 <br><br>
 
@@ -15,7 +22,14 @@ Remote full-stack developer ready to code 😎.
 <br><br>
 <br><br>
 
-<img  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="360px" widht="500px">
+<p align="center">
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> <img align="center" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="360px" widht="500px">
+
+</p>
+
+
+
 <br><br>
 
 ### Tech & Tools Preference
@@ -28,8 +42,8 @@ Remote full-stack developer ready to code 😎.
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20px">
@@ -50,34 +64,28 @@ Remote full-stack developer ready to code 😎.
 
 ### 🌱 I’m currently learning 
 
+
+
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+
 
 
 ### Coding & active status
 
 
 <p align="center">
-          <a href="https://github.com/SaraZuhair/">
+          <a href="https://github.com/Mhamad-Raad/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"               alt="Mhamad-Raad :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/SaraZuhair">
+          </p>
+          <p align="center">
+          <a href="https://github.com/Mhamad-Raad">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mhamad-Raad&show_icons=true&theme=midnight-purple&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhamad-Raad&theme=midnight-purple&hide_border=true" />
           </a>
-       </p>
+</p>
 
 
-   
 
-#### Thanks for visiting :heart:
+#### Thanks for visiting :purple_heart:
 ![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
