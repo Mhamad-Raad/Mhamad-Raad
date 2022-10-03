@@ -18,20 +18,22 @@ Remote full-stack developer ready to code 😎.
 - 💼 Bachelor's degree in Software engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
-- Learn more about me on linked <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
+- 🤙 Learn more about me on linked <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
 <br><br>
 <br><br>
-
+<img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
+<br>
 <p align="center">
 
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> <img align="center" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="360px" widht="500px">
 
 </p>
 
-
-
 <br><br>
 
+
+<img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
+<br><br>
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -68,10 +70,11 @@ Remote full-stack developer ready to code 😎.
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<br><br>
+<img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 
 
-
-### Coding & active status
+### Coding & Activity status
 
 
 <p align="center">
@@ -85,7 +88,18 @@ Remote full-stack developer ready to code 😎.
           </a>
 </p>
 
-
-
-#### Thanks for visiting :purple_heart:
+<br><br>
+<img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
+<br><br>
+ ### Leave a star⭐️ <a href="https://github.com/Mhamad-Raad/Mhamad-Raad">Mhamad R</a>
+ 
+ 
+ 
+ Thanks for visiting :purple_heart:
+ 
+ <br>
+ <div align="center">
+          
 ![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
+ 
+ </div>
