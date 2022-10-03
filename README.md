@@ -1,6 +1,3 @@
-<p align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</p>
 
 ### Hi there, I am Mhamad <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="100px" widht="40px">
@@ -46,9 +43,17 @@ Remote full-stack developer ready to code 😎.
 
 
 ### A little about me
+<p align="center">
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&theme=midnight-purple&hide=glsl,python" />
+</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhamad-Raad&show_icons=true&hide_border=true&theme=midnight-purple)
+</p>
 
-![Snake animation](https://github.com/Mhamad-Raad/Mhamad-Raad/blob/output/github-contribution-grid-snake.svg)
 
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
