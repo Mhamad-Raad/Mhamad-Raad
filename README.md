@@ -10,7 +10,9 @@
 Remote full-stack developer ready to code 😎, open to new opportunities ✏️.
 <br><br>
 
+<div align="center" width="100%"> <a href="https://github.com/mhamad-raad/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhamad-raad&theme=radical&column=7&margin-w=15&margin-h=15" alt="mhamad-raad" /></a> </div>
 
+<br>
 
 **About Me!**
 
