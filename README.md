@@ -1,5 +1,5 @@
 
-# Hi there, I am Mhamad <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
+# Hi there, I am 'Mhamad' <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 
 <div align="center">
 
@@ -63,6 +63,10 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="20px">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="20px">
+<img src="https://img.shields.io/badge/Responsive-Web-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="20px">
+
+
 
 
 
@@ -97,7 +101,7 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
  
  
  
- Thanks for visiting :purple_heart:
+ Ps: looks better in darkmode, Thanks for visiting :purple_heart:
  
  <br>
  <div align="center">
