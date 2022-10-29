@@ -2,9 +2,7 @@
 # Hi there, I am 'Mhamad' <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=700&height=70&lines=Hello+Developers+%3A3)](https://git.io/typing-svg)
-
+          [![Typing SVG](https://readme-typing-svg.herokuapp.com?                                                                                                                  font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=700&height=70&lines=Hello+Developers+%3A3)](https://git.io/typing-svg)
 </div>
 
 Remote full-stack developer ready to code 😎, open to new opportunities ✏️.
@@ -21,6 +19,7 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
 - 🤙 Learn more about me on linked <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
+
 <br><br>
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
