@@ -14,7 +14,7 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 
 <br>
 
-**About Me!**
+## **About Me!**
 
 - 🌱 I’m currently exploring WEb development with a big interest in Web animation. 
 - 💼 Bachelor's degree in Software engineering.
@@ -37,7 +37,8 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 <br><br>
-### Tech & Tools Preference
+
+ ## Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -81,7 +82,7 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 
 
-### Coding & Activity status
+## Coding & Activity status
 
 
 <p align="center">
