@@ -76,8 +76,10 @@ Remote full-stack developer ready to code 😎, open to new opportunities ✏️
 
 
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20px" style="border-radius: 30px">
+
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 
