@@ -113,8 +113,9 @@ You have an idea and want help to make it a reality? please feel free to contact
  <br>
  <div align="center">
           
-![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
-<br>
 Profile Vists
-:green_heart: 
+:green_heart:
+       <br>
+![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
+
  </div>
