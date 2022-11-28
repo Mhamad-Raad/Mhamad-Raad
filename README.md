@@ -7,7 +7,8 @@
 
 </div>
 
-Remote full-stack developer ready to code 😎, open to new opportunities ✏️.
+Remote full-stack developer ready to code 😎, open to new opportunities ✏️.  
+       ....
 <br>
 You have an idea and want help to make it a reality? please feel free to contact me 😁.
 <br><br>
