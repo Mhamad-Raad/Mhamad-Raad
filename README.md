@@ -70,6 +70,13 @@ You have an idea and want help to make it a reality? please feel free to contact
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="20px">
 <img src="https://img.shields.io/badge/Responsive-Web-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="20px">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20px" style="border-radius: 30px">
+
+
+
 
 
 
@@ -78,10 +85,8 @@ You have an idea and want help to make it a reality? please feel free to contact
 ### 🌱 I’m currently learning 
 
 
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="20px" style="border-radius: 30px"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="20px" style="border-radius: 30px">
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20px" style="border-radius: 30px">
 
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
@@ -119,3 +124,5 @@ Profile Vists
 ![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
 
  </div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
