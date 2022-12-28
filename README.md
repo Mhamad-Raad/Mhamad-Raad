@@ -19,7 +19,7 @@ You have an idea and want help to make it a reality? please feel free to contact
 
 ## **About Me!**
 
-- 🌱 I’m currently exploring WEb development with a big interest in Web animation. 
+- 🌱 I’m currently exploring web development with a big interest in Web animation. 
 - 💼 Bachelor's degree in Software engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
