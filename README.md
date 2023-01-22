@@ -26,7 +26,6 @@ You have an idea and want help to make it a reality? please feel free to contact
 - 🤙 Learn more about me on linked <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
 
 <br><br>
-<br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 <br>
 <p align="center">
