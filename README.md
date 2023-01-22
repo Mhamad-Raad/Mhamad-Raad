@@ -15,7 +15,7 @@ You have an idea and want help to make it a reality? please feel free to contact
 
 
 <div align="center" width="100%"> <a href="https://github.com/mhamad-raad/"><img src="https://github-profile-trophy.vercel.app/?username=mhamad-raad&theme=radical&column=7&margin-w=15&margin-h=15" alt="mhamad-raad" /></a> </div>
-<br>
+<br><br>
 
 ## **About Me!**
 
