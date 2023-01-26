@@ -29,9 +29,9 @@ You have an idea and want help to make it a reality? please feel free to contact
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 <br><br>
 <p align="center">
-
+<br>
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/> <img align="center" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" height="360px" widht="500px">
-
+<br>
 </p>
 
 <br><br>
