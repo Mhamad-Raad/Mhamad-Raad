@@ -74,9 +74,6 @@ You have an idea and want help to make it a reality? please feel free to contact
 
 
 
-
-
-
 ### 🌱 I’m currently learning 
 
 
