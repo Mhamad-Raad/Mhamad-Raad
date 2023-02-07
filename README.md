@@ -6,10 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=700&height=70&lines=Hello+Developers+%3A3)](https://git.io/typing-svg)
 </div>
 
-Full-stack web developer ready to code 😎, open to new opportunities ✏️.  
+Full-stack web developer ready to code 😎, open to new opportunities✏️.  
        ....
 <br>
 You have an idea and want help to make it a reality? please feel free to contact me 😁.
+Looking for a Mentor 🧑‍🏫
 <br><br>
 
 
