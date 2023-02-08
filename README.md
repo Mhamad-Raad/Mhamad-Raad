@@ -80,7 +80,8 @@ Looking for a Mentor 🧑‍🏫
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="20px" style="border-radius: 30px">
-
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" height="20px" style="border-radius:30px">
+<img src="https://img.shields.io/badge/remix-js-000000?style=for-the-badge&logo=remixdotjs&logoColor=white" height="20px" style="border-radius: 30px">
 
 
 <br><br>
