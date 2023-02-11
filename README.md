@@ -10,7 +10,7 @@ Full-stack web developer ready to code 😎, open to new opportunities✏️.
        ....
 <br>
 You have an idea and want help to make it a reality? or do you want have discussion about future tech? please feel free to contact me, I would love to be a part of it 😁.<br>
-Looking for a Mentor 🧑‍🏫
+Looking for a tech or front-end Mentor 🧑‍🏫
 <br><br>
 
 
