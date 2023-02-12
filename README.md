@@ -109,7 +109,8 @@ Looking for a tech or front-end Mentor 🧑‍🏫
  
  
  
- Ps: looks better in darkmode, Thanks for visiting :purple_heart:
+ Ps: looks better in darkmode, <br>
+Thanks for visiting :purple_heart:
  
  <br>
  <div align="center">
