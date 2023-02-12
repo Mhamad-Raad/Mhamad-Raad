@@ -19,7 +19,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 
 ## **About Me!**
 
-- 🌱 I’m currently exploring web development with a big interest in Web animations. 
+- 🌱 I’m currently exploring front-end web development with a big interest in Web animations. 
 - 💼 Bachelor's degree in Software engineering.
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
