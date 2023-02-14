@@ -23,7 +23,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 - 💼 Bachelor's degree in Software engineering.
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [hamaraad883@gmail.com](mailto:hamaraad883@gmail.com).
-- 🤙 Learn more about me on LinkedIn <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad</a>
+- 🤙 Learn more about me on LinkedIn <a href="https://www.linkedin.com/in/mhamad-raad-446a75227/">Mhamad Raad.</a>
 
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
