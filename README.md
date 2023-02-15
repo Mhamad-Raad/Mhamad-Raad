@@ -1,5 +1,5 @@
 
-# Hi there, I am 'Mhamad' <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
+# Hi there, I am 'Mhamad' (Hama) <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 
 <div align="center">
 
