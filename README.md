@@ -1,6 +1,6 @@
 
 # Hi there, I am 'Mhamad' (Hama) <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
-
+<!-- ADD BACKGROUND COLOR BLACK HERE -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=700&height=70&lines=Hello+Developers+%3A3)](https://git.io/typing-svg)
