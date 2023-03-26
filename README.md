@@ -1,4 +1,3 @@
-
 # Hi there, I am 'Mhamad' (Hama) <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 <!-- ADD BACKGROUND COLOR BLACK HERE -->
 <div align="center">
