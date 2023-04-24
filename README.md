@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=700&height=70&lines=Hello+Developers+%3A3)](https://git.io/typing-svg)
 </div>
 
-Full-stack web developer ready to code 😎, open to new opportunities✏️.  
+Full-stack(Front-end specialist) web developer ready to code 😎, open to new opportunities✏️.  
        ....
 <br>
 You have an idea and want help to make it a reality? or do you want have discussion about future tech? please feel free to contact me, I would love to be a part of it 😁.<br>
