@@ -78,13 +78,11 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" height="20px" style="border-radius:30px">
 <img src="https://img.shields.io/badge/remix-js-000000?style=for-the-badge&logo=remixdotjs&logoColor=white" height="20px" style="border-radius: 30px">
 
-
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 <br><br>
 
 ## Coding & Activity status
-
 
 <p align="center">
           <a href="https://github.com/Mhamad-Raad/">
