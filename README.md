@@ -86,7 +86,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 
 <p align="center">
           <a href="https://github.com/Mhamad-Raad/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"               alt="Mhamad-Raad :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhamad-Raad&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"             alt="Mhamad-Raad :: Top Langs" /></a>
           </p>
           <p align="center">
           <a href="https://github.com/Mhamad-Raad">
