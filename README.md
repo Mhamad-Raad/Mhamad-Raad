@@ -100,8 +100,6 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <br><br>
  ### Leave a star⭐️ <a href="https://github.com/Mhamad-Raad/Mhamad-Raad">Mhamad R</a>
  
- 
- 
  Ps: looks better in darkmode, <br>
 Thanks for visiting :purple_heart:
  
