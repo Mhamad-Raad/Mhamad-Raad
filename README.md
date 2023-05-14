@@ -68,15 +68,16 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20px" style="border-radius: 30px">
-
-### 🌱 I’m currently learning 
-
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="20px" style="border-radius: 30px"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="20px" style="border-radius: 30px">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" style="border-radius: 30px">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" height="20px" style="border-radius:30px">
 <img src="https://img.shields.io/badge/remix-js-000000?style=for-the-badge&logo=remixdotjs&logoColor=white" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="20px" style="border-radius: 30px"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" style="border-radius: 30px">
+### 🌱 I’m currently learning 
+
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" style="border-radius: 30px">
+
 
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
