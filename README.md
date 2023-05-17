@@ -75,9 +75,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" style="border-radius: 30px">
 ### 🌱 I’m currently learning 
 
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" style="border-radius: 30px">
-
 
 <br><br>
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
