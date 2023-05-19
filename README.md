@@ -1,4 +1,4 @@
-# Hi there, I am 'Mhamad' (*Hama*) <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
+# Hi there, I am 'Mhamad' (* Hama *) <img src="https://media.giphy.com/media/ZgTRcH0SbiLV1wolnR/giphy.gif" width="30px" height="30px">
 <!-- ADD BACKGROUND COLOR BLACK HERE -->
 <div align="center">
 
@@ -16,7 +16,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <div align="center" width="100%"> <a href="https://github.com/mhamad-raad/"><img src="https://github-profile-trophy.vercel.app/?username=mhamad-raad&theme=radical&column=7&margin-w=15&margin-h=15" alt="mhamad-raad" /></a> </div>
 <br><br>
 
-## **About Me! **
+## ** About Me! **
 
 - 🌱 I’m currently exploring front-end web development with a big interest in Web animations. 
 - 💼 Bachelor's degree in Software engineering.
