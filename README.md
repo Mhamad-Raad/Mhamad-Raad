@@ -107,7 +107,7 @@ Thanks for visiting :purple_heart:
  <br>
  <div align="center">
           
-** Profile Vists
+** Profile Vists **
 :green_heart:
        <br>
 ![VisitorCount](https://profile-counter.glitch.me/Mhamad-Raad/count.svg)
