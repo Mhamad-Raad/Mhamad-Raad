@@ -99,7 +99,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
 <br><br>
 
- ### * Leave a star⭐️ <a href="https://github.com/Mhamad-Raad/Mhamad-Raad">Mhamad R</a>
+ ### ** Leave a star⭐️ <a href="https://github.com/Mhamad-Raad/Mhamad-Raad">Mhamad R</a> **
  
  Ps: looks better in darkmode, <br>
 Thanks for visiting :purple_heart:
