@@ -36,6 +36,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <br><br>
 
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
+
 <br><br>
 
  ## ** Tech & Tools Preference **
