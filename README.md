@@ -82,7 +82,7 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 ### 🌱 ** I’m currently learning **
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="20px" style="border-radius: 30px">
-
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <br><br>
 
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
