@@ -79,10 +79,11 @@ Looking for a tech or front-end Mentor 🧑‍🏫
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="20px" style="border-radius: 30px"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20px" style="border-radius: 30px">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20px" style="border-radius: 30px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 ### 🌱 ** I’m currently learning **
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="border-radius: 30px">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <br><br>
 
 <img width="100%" height="30px" src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif">
